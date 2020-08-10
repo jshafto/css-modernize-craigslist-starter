@@ -1,5 +1,5 @@
 # Modernize Craigslist CSS Project
-This project was completed as part of the App Academy curriculum. Implementation by Juliet Shafto and .
+This project was completed as part of the App Academy curriculum. Implementation by Juliet Shafto and Sam Holt.
 
 
 ## Project Description
@@ -8,10 +8,11 @@ Craigslist is a notoriously under-designed and also very successful website. Its
 The objective of this project is to re-skin the Craigslist homepage to use a more modern design aesthetic.
 
 ## Project Status
-- [ ] Add initial page styles
-- [ ] Style hovered-on and visited links
-- [ ] Style the main page sections
-- [ ] Style the footer list
-- [ ] Add pseudo-elements
-- [ ] Bonus I: Style the calendar
-- [ ] Bonus II: Use more psuedo-classes
+- [x] Add initial page styles
+- [x] Style hovered-on and visited links
+- [x] Style the main page sections
+- [x] Style the footer list
+- [x] Add pseudo-elements
+- [x] Bonus I: Style the calendar
+- [x] Bonus II: Use more psuedo-classes
+- [x] SECRET BONUS: halloween

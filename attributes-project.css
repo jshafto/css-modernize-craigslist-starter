@@ -31,3 +31,136 @@ p.more {
 }
 
 /* Write your CSS here. */
+
+* {
+  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  /* background-color: #F5F5F5; */
+  color: #dd1e1e;
+  cursor: url('./pentagram.cur'), none;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+ul > li {
+  list-style: none;
+}
+
+a:hover, a > span:hover {
+  color: #800080;
+  font-weight: bold;
+}
+
+.page-container {
+  max-width: 1200px;
+}
+
+#leftbar,
+#center,
+#rightbar {
+  float: left;
+  padding: 0px 30px;
+  box-sizing: border-box;
+}
+
+footer {
+  clear: both;
+}
+
+#leftbar,
+#rightbar {
+  width: 25%;
+}
+
+#center {
+  width: 50%;
+  border: 1px solid #464646;
+  border-radius: 10px;
+}
+
+#center > div {
+  float: left;
+  width: 33%;
+}
+
+#topban h2 {
+  text-align: center;
+}
+
+ul.clfooter {
+  text-align: center;
+  border-top: 1 solid gray;
+  padding: 10px 0px;
+}
+
+ul.clfooter > li {
+  display: inline;
+  padding-right: 5px;
+}
+
+h4.ban::before {
+  content: '☮️';
+}
+
+td {
+  border: 1px solid #333;
+}
+
+.cal a {
+  color: green;
+  font-weight: bold;
+}
+
+.cal td {
+  text-align: center;
+}
+
+.past {
+  color: rgba(255, 255, 255, 0.5);
+  cursor: not-allowed;
+}
+
+.cal .today a {
+  background-color: darkviolet;
+  color: white;
+}
+
+.cal .today {
+  background-color: darkviolet;
+}
+
+td:hover,
+td:hover a {
+  background-color: lavender;
+}
+
+.querybox:focus {
+  background-color: darkviolet;
+  color: white;
+}
+
+li:first-child span {
+  background-color: lawngreen;
+}
+
+h4.ban::after {
+  content: ' 🎃';
+}
+
+li:last-child span {
+  background-color: orange;
+}
+
+body {
+  background-image: url('./spooky.gif');
+  background-size: cover;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  cursor: url('./pentagram.cur'), none;
+}
