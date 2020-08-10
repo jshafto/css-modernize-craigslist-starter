@@ -1,5 +1,5 @@
 # Modernize Craigslist CSS Project
-This project was completed as part of the App Academy curriculum. Implementation by Juliet Shafto and Miah Barnes.
+This project was completed as part of the App Academy curriculum. Implementation by Juliet Shafto and .
 
 
 ## Project Description
